@@ -1,6 +1,6 @@
 # Data-Analytics-Course
 
-These are the projects I worked on in my Data Analyrics Course:
+These are the projects I worked on in my Data Analytics Course:
 
 
 1. A presentation about marketing recommendations in the video game sector for a fictive company using past sales data (up to 2016) for the next year (2017). Using a public domain data set with excel I created a presentation for the executive board of the fictive company "GameCo".
