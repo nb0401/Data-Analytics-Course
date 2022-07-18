@@ -1,0 +1,2 @@
+"min_customer_id"|"max_customer_id"|"avg_customer_id"|"min_store_id"|"max_store_id"|"avg_store_id"|"mode_first_name"|"mode_last_name"|"mode_email"|"min_address_id"|"max_address_id"|"avg_address_id"|"mode_activebool"|"mode_create_date"|"mode_last_update"|"mode_active"
+1|599|300,0|1|2|1,4557595993322203|"Jamie"|"Abney"|"aaron,selby@sakilacustomer,org"|5|605|304,7245409015025|True|"2006-02-14"|"2013-05-26 14:49:45,738"|1

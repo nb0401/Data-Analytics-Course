@@ -1,0 +1,1 @@
+This folder holds all the scripts which were created throughout the module and which have a direct impact in the final report.
