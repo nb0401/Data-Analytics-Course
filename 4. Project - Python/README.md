@@ -16,11 +16,8 @@ In this project folder you will find, a business-like folder structure containin
 
 4. "04 Analysis" folder, having the subfolder "Visualizations" in which you'll find all the visualizations created.
 
-<<<<<<< HEAD
-	- "05 Sent to Client" folder, containing the "Final_Report.xlsx", holding information about the procedure and answers for the key questions of the stakeholders.
+5. "05 Sent to Client" folder, containing the "Final_Report.xlsx", holding information about the procedure and answers for the key questions of the stakeholders.
 
 
 The data used is from “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 08.06.2022 [DD-MM-YYYY].
-=======
-5. "05 Sent to Client" folder, containing the "Final_Report.xlsx", holding information about the procedure and answers for the key questions of the stakeholders.
->>>>>>> ff0939ff310384345f86b899cc4babb1a8a16ae2
+
