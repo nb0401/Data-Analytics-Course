@@ -8,12 +8,12 @@ In the role of an analyst for the company, Instacart - an online grocery store, 
 
 In this project folder you will find, a business-like folder structure containing the important files of the project:
 
-	- "01 Project Management" folder, which would contain information about the project at hand.
+1. "01 Project Management" folder, which would contain information about the project at hand.
 
-	- "02 Data" folder, containing two subfolders ("Prepared Data" and "Original Data"), which would include all the original datasets and the dataframes developed using the original datasets.
+2. "02 Data" folder, containing two subfolders ("Prepared Data" and "Original Data"), which would include all the original datasets and the dataframes developed using the original datasets.
 
-	- "03 Scripts" folder, holding all the scripts used for the analysis. For better understanding, reading the "Final_Report.xlsx" in the "05 Sent to Client" folder is advised.
+3. "03 Scripts" folder, holding all the scripts used for the analysis. For better understanding, reading the "Final_Report.xlsx" in the "05 Sent to Client" folder is advised.
 
-	- "04 Analysis" folder, having the subfolder "Visualizations" in which you'll find all the visualizations created.
+4. "04 Analysis" folder, having the subfolder "Visualizations" in which you'll find all the visualizations created.
 
-	- "05 Sent to Client" folder, containing the "Final_Report.xlsx", holding information about the procedure and answers for the key questions of the stakeholders.
+5. "05 Sent to Client" folder, containing the "Final_Report.xlsx", holding information about the procedure and answers for the key questions of the stakeholders.
