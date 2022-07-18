@@ -16,4 +16,4 @@ Here you can find the following folders and files:
 
 	- The "Excel_Report.xlsx", the Excel-Report created to answer the questions of the project task.
 
-	- The "Presentation.pdf", the final presentation with the recommendations for the fictive company "Rockbuster Stealth LLC".
+	- The "Presentation.pdf", the final presentation with the recommendations for the fictive company "Rockbuster Stealth LLC".5. The "Presentation.pdf", the final presentation with the recommendations for the fictive company "Rockbuster Stealth LLC".
