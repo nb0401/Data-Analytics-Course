@@ -20,6 +20,7 @@ In this project folder you will find, a business-like folder structure containin
    The original data sources can be found in the notebooks.
 
 3. "03 Scripts" - here you can find the scripts created for the project. There are 6 notebooks/scripts:
+
         1. 6.1 which is about the sourcing and cleaning of the datasets.
         2. 6.2 which is about exploring relationships and correlations.
         3. 6.3 which is about a geospatial analysis using folium and json libraries for python.
