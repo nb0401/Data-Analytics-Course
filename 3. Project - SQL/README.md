@@ -2,7 +2,7 @@
 
 ## Objective
 
-As a hired data analyst by Rockbuster Stealth's business intelligence department, my goal is to work on an analysis to help with the launch strategy for an online rental video service. My task is to answer key questions of the stakeholders and to gain new insights that support Rockbuster Stealth LLC to stay competitive regarding the rise of other online video rental services.
+As a hired data analyst by Rockbuster Stealth's business intelligence department, my goal was to work on an analysis to help with the launch strategy for an online rental video service. My task was to answer key questions of the stakeholders and to gain new insights that support Rockbuster Stealth LLC to stay competitive regarding the rise of other online video rental services.
 
 ## Content
 
