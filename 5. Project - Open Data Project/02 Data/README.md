@@ -1,0 +1,1 @@
+Normally, here you could see the data files used for the project. However, out of political and legal reasons, I don't want to publish any used data in my GitHub profile. Any data source is linked in the specific notebooks. If not, feel free to reach out to me and ask.
