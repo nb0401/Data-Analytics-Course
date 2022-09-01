@@ -2,7 +2,7 @@
 
 ## Objective
 
-The goal of the analysis is to aid a medical staffing agency that provides temporary workers to hospitals and clinics on a as-needed basis, creating a staffing recommendations to prepare for influenza season in the US. In a time where additional staff is crucial to tackle the influenza season in the states with larger number of cases an analysis will help identifying the most and least critical states in need.
+The goal of the analysis was to aid a medical staffing agency that provides temporary workers to hospitals and clinics on a as-needed basis, creating a staffing recommendations to prepare for influenza season in the US. In a time where additional staff is crucial to tackle the influenza season in the states with larger number of cases an analysis will help identifying the most and least critical states in need.
 
 ## Content
 

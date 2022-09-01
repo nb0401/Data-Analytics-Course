@@ -11,7 +11,7 @@ These are the projects I worked on in my Data Analytics Course:
 
 4. The company Instacart published a dataset (“The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on 08.06.2022 [DD-MM-YYYY].) on which I perform an analysis using python / jupyter. The goal is to gain information about the behavior and ordering patterns of the customers inside the database, answering key questions from the stakeholders, and finding insights increasing the sales performance. Therefore multiple dataframes have to be cleaned, wrangled, merged together, and analyzed using pandas, numpy, seaborn and matplotlib.
 
-5. The fifth project is coming soon.
+5. Using data from the European Monitoring Centre for Drugs and Drug Addiction (EMCDDA) and the SCORE network, I created an Open Data Project which analyses the metabolites of wastewater in European cities to gain insights on the drug consumption behaviour. The situation of drug consumption is a general area of focus in the political world. To gain further insights, I looked at the drug consumption levels of specific drugs and their correlation with each other. In conclusion, with the knowledge about the correlation, I can say, that the consumption level of each drug has to be taken individually. Therefore, the drug situation has to be fought individually and not as a whole.
 
 
 

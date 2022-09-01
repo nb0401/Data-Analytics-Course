@@ -2,7 +2,7 @@
 
 ## Objective
 
-In the role of an analyst for the company, Instacart - an online grocery store, my goal is to research the datasets about the customer sales patterns. As a result, further insights and advanced strategies should be uncovered, to answer key questions of the stakeholders, and to give recommendations to increase the performance.
+In the role of an analyst for the company, Instacart - an online grocery store, my goal was to research the datasets about the customer sales patterns. As a result, further insights and advanced strategies should be uncovered, to answer key questions of the stakeholders, and to give recommendations to increase the performance.
 
 ## Content
 
